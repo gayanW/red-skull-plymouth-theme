@@ -1,3 +1,7 @@
+### Preview
+
+![Custom Boot Splash Ubuntu](./boot-splash-preview.png "Ubuntu Custom Plymouth Theme")
+
 ### Installtion
 Just run `install.sh`
 
