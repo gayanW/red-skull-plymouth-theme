@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Red Skull
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/red-skull-plymouth-theme
+ScriptFile=/lib/plymouth/themes/red-skull-plymouth-theme/red-skull.script
