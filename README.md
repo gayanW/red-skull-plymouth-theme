@@ -11,3 +11,7 @@ To fix the delayed loading
 echo FRAMEBUFFER=y >>/etc/initramfs-tools/conf.d/splash
 update-initramfs -u
 ```
+
+#### Contact me [@ REVERSIBLEAN's Ubuntu ♛ Linux Blog](http://www.reversiblean.com/contact-us/)
+
+
